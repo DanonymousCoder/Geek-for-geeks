@@ -11,3 +11,9 @@ c= a+b;
 alert('The values of c is ' + c +' .');
 
 document.write('JavaScript Learning');
+
+let x, y, sum;
+x = 2;
+y = 4;
+sum = x + y;
+alert('sum')
