@@ -8,4 +8,4 @@ let a, b, c;
 a= '1';
 b= '2';
 c= a+b;
-alert('The values of c is " c ".');
+alert('The values of c is ' + c +' .');
