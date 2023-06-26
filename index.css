@@ -17,5 +17,6 @@ div {
 }
 button {
     background-color: #AAAAAA;
-    border-radius: ;
+    border-radius: 10px;
+    padding: 10px;
 }
