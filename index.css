@@ -1,6 +1,7 @@
 body {
     background-color: #071013;
     align-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 div {
     margin: 50px;
@@ -9,4 +10,5 @@ div {
     border: 0px solid #EB5160;
     border-radius: 10px;
     align-items: center;
+    text-align: center;
 }
