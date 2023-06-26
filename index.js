@@ -16,4 +16,4 @@ let x, y, sum;
 x = 2;
 y = 4;
 sum = x + y;
-alert('sum')
+alert(sum);
