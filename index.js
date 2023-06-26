@@ -28,4 +28,4 @@ const thisYear = 2023;
 const fullName = firstName + lastName;
 const age = thisYear - birthYear;
 
-const greeting = "Hello!, My name is " + 
+const greeting = "Hello!, My name is " + fullName + " and I'm " + age + " years old.";
