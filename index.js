@@ -33,4 +33,4 @@ const greeting = "Hello!, My name is " + fullName + " and I'm " + age + " years 
 console.log(greeting);
 let test = "This is a test";
 window.alert(test);
-window.prompt(test);
+window.prompt("input a number");
