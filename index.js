@@ -31,5 +31,5 @@ const age = thisYear - birthYear;
 const greeting = "Hello!, My name is " + fullName + " and I'm " + age + " years old.";
 
 console.log(greeting);
-
+let test = "This is a test";
 window.alert(testing);
