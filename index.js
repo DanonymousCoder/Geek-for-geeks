@@ -19,4 +19,4 @@ sum = x + y;
 num = y/x;
 alert(sum);
 alert('Answer is equal to '+ num +' .');
-confirm(''+ num +' + '<br>' + '+ sum +' .');
+alert(''+ num +' + '<br>' + '+ sum +' .');
