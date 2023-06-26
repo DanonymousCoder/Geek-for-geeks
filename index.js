@@ -23,3 +23,4 @@ alert(''+ num +' + '<br>' + '+ sum +' .');
 
 const firstName = "Ridwanullah ";
 const lastName = "Baruwa";
+const birthYear = 2009;
