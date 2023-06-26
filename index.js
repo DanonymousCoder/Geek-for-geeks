@@ -18,3 +18,4 @@ y = 4;
 sum = x + y;
 num = y/x;
 alert(sum);
+alert('Answer is equal to '+ num +' .')
