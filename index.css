@@ -1,5 +1,6 @@
 body {
     background-color: #071013;
+    align-items: center;
 }
 div {
     margin: 50px;
@@ -7,4 +8,5 @@ div {
     background-color: #EB5160;
     border: 0px solid #EB5160;
     border-radius: 10px;
+    align-items: center;
 }
