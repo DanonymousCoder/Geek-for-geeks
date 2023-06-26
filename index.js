@@ -26,3 +26,4 @@ const lastName = "Baruwa";
 const birthYear = 2009;
 const thisYear = 2023;
 const fullName = firstName + lastName;
+const age = thisYear - birthYear;
