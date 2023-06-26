@@ -20,3 +20,5 @@ num = y/x;
 alert(sum);
 alert('Answer is equal to '+ num +' .');
 alert(''+ num +' + '<br>' + '+ sum +' .');
+
+const firstName = "Ridwanullah ";
